@@ -1,7 +1,3 @@
-#Part 1---------------
-print('Hello World')
-
-#Part 2---------------
 import math
 
 x = int(input("Enter a number x: "))
